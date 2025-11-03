@@ -3,9 +3,17 @@ Dev log? Dev blog? Whatever. This is where I post a blog of sorts.
 
 ---
 
+__*11/3/25*__
+
+## Need Instructive Losses
+
+I have been thinking about my chess data CDL framework (found here: https://github.com/BoyoLabs/ChessData ) and I have realized that in bullet, there aren't very many instructive losses -- or rather that there is plenty to learn from analyzing your wins because theres still so much that you did wrong in bullet, but losses are just immediate punishments of those problems. You learn less because its the same problems as in wins, but with literally less data. That doesn't make them unimportant for a CDL framework however. As those datapoints will be useful for the LLM to notice how quickly they get punished. My focus for that CDL is to try to incorperate more losses. Not because there is more data (in fact theres less) but because I want to teach the LLM that these losses can be quickly punished. I need to find some good ones though to add so it can really tell whats going on.
+
+---
+
 __*11/2/25*__
 
-### dev blog idea / catching up to now
+## dev blog idea / catching up to now
 
 Lately, I have been incredibly busy. Studying chess and working with our chickens, yard work and house work. Living in the country is a ton of work. However, I have had some time to test out both Lexl (an LLM enhancement tool, found here: https://github.com/BoyoLabs/Lexl ) as well as my first pet project in the foray into meta programming with prompt and context engineering in the form of what I like to call Contextual Data Logic (CDE) frameworks -- chessData (found here: 
 https://github.com/BoyoLabs/ChessData )
