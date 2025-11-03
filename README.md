@@ -11,6 +11,8 @@ I have been thinking about my chess data CDL framework (found here: https://gith
 
 I have gone on to update my GitHub significantly. I am consolidating my CDL frameoworks into one repo with what they do as an explanation. This way, I can consolidate my repos into their goals and the projects will be individuals within there rather than having an individual repo per project. I am doing this because I plan on using my GitHub as, effectively, my lab. Or rather, the documentation for my lab. There will be a repo for 3d design/printing as well as hardware and mobile projects. But I will create those as I move forward. *update: I have them consolidated into CDL frameworks, DevBlog and WebApps as my main repos. If I choose to delve into something like pythong again, I will, but have no intentions at this time. The 3d design/printing one will come when I decide to publish my first item*
 
+I have been thinking about what other CDL frameworks I would want to make, and for right now, I think I am actually pretty okay just working on my chessData one. I don't want to jump from idea to idea too quickly.
+
 ---
 
 __*11/2/25*__
