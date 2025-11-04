@@ -3,6 +3,14 @@ Dev log? Dev blog? Whatever. This is where I post a blog of sorts.
 
 ---
 
+__*11/4/25*__
+
+## Physical Tech projects and Samsung DeX
+
+I have gone and done it -- used github inappropriately again. I made a repo for mor physical projects that includes Samsung DeX or 3d printing projects. I have already uploaded one project -- specifically my daily driving of Samsung DeX. It is enjoyable that I get to use my most personal computer (my "phone") as my main PC other than complete workhorse type stuff. Ever since the advent of the app "Slice Beam" which is a mobile 3d slicer, I don't particularly need a desktop. Its still enjoyable to have one, sure but not as easy as this. I uploaded an image of my DeX setup, but I've already got a 3d printing project to show, I just need to document it.
+
+---
+
 __*11/3/25*__
 
 ## Need Instructive Losses
