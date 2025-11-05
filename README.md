@@ -13,6 +13,12 @@ This is more a test of this keyboard because I haven't used this keyboard in qui
 
 As a result of this test, this keyboard is okay, but I think I definitely want a better on ue to the locations this one folds into.
 
+*edit 1:* I have changed keyboards and have another one on the way. The keyboard I was using earlier today had a massive problem. It was a folding keyboard whose fold was right where I hit the space bar and it really got annoying fast. So I have a loaner one right now and have a better keyboard on the way.
+
+I also have a charging station on the way to charge my various peripherals and devices. From battery packs to headphones to keyboard, mouse, maybe even my watch and my mobile. I also decided I actually do enjoy using both portrait as well as landscape modes and so am printing a phone stand that will allow my mobile to charge in portrait mode while on its stand.
+
+I write very stream of consciousness here and I know that, but its fun. I am just typing into the void anyways, so I don't see any problems as of yet.
+
 ---
 
 __*11/4/25*__
