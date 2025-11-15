@@ -3,6 +3,20 @@ Dev log? Dev blog? Whatever. This is where I post a blog of sorts.
 
 ---
 
+__*11/15/25*__
+
+## Community Chess Challenge/fest
+
+Today was the community chess challenge that I hosted at our local museum. It went well! I love chess, especially bullet chess. But it does mean that my tech stuff took a back seat. I am enjoying reclaiming the engineering part of my tech identity, even if I am not *always* doing it. Which reminds me, I am so excited for this arc b580 to come because its going to upgrade my 3d development *so* much.
+
+As train of thought, while at the community chess challenge, we played bullet over the board. I had so much fun. Didn't lose a single game of speed chess and drew a the only long game I played. Of course, I was putting it on, so I didn't play as many games, but I did stil play some and it was just a good reminder that I am always playing against people my level online, which means tougher and tougher competition as I get better and better.
+
+Anyways, enough rambling, just wanted to make sure I got in here and said something.
+
+Goodbye to the void!
+
+---
+
 __*11/14/25*__
 
 ## BUSY!
