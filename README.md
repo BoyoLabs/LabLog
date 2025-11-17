@@ -2,6 +2,13 @@
 Dev log? Dev blog? Whatever. This is where I post a blog of sorts.
 
 ---
+__*11/17/25*__
+
+## Last DevBlog for a little while?
+
+I enjoy this DevBlog. But I was doing some thinking, maybe I don't need to do it every day, it can be more a weekly update thing and I just have it updated for that week. I could even make a new file for each week? I am unsure as of right now. The goal for now is to just try and decide how I want to do this moving forward. I will probably next update this specific repo in a weeks time with what I've decided along with my updates to shout into the void. But I am also unacertain. If I come up with an idea of how I want to do it going forward that still allows for more posts, I will make an update sooner than a week. But as I have been thinking about it, I would like the DevBlog to be a *DEV* Blog and less of just a blog. I think the DevBlog should be more about what I have been working on, and less just ramblings into the void.
+
+The idea is that each week I go over what I've done from all my different tech passions -- from CDL frameworks, to 3d designs, programming (on the rare occasion) to hardware changes I've made in my setup. I also like the idea of a blog though -- as I don't have any real important tech updates to make sure everyone (which is literally nobody) to concern themselves with. So a little blog allows me to just talk about my nerdy tech stuff I enjoy. So I am not sure what the plan is going forward just yet, but instead of constantly throwing out 3 sentence ramblings each day, I would like to have something a little more... directed? Poignant? I am not sure. I write this update as it is the start of me figuring it out.
 
 __*11/16/25*__
 
