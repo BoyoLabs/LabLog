@@ -2,6 +2,21 @@
 Dev log? Dev blog? Whatever. This is where I post a blog of sorts.
 
 ---
+
+__*11/25/25*__
+
+## No *REAL* update, except the *REALEST* one
+
+So, this past week I have shifted focus onto actually creating. I have a few new additions to all of my repositories. A new 3d design, and in fact the most complex design I have ever done, a CDL framework and a crappy benchmarking app. I have enjoyed doing these things, but I feel unproductive to some degree with so few committs. I haven't come up with a better way of doing this dev blog as I don't want this readme to get so long it becomes impractical. But I am indeed proud of the amount of work I did this week.
+
+I did all this all while the new old school runescape skill came out! That, for me, is an impressive feat! I have been enjoying sailing, but I am currently back to training agility, if that matters to you at all.
+
+I have a new mouse coming, if that matters.
+
+Nothing else to report. Just excited about the variety and veracity of the work I've done this week. Still need to think about what I will do about the devblog. Will try not updating every day again. Next week.
+
+Till next time
+
 __*11/17/25*__
 
 ## Last DevBlog for a little while?
