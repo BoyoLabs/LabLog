@@ -1,9 +1,17 @@
-# LabLog
+# 🛠️ The LabLog: The Engineer's Applied Systems Blog
 
-This is a log of many of the things I do. Think of it a bit like a blog, which will include things I am doing *not* digitally. This repo covers all of my engineering aspirations. From the homestead to programming I do it all!
+This repository serves as **The Engineer's Logbook** for all projects under the **Boyo Labs** umbrella.
+
+The name "LabLog" is a mashup of **"Lab"** (where experiments and engineering happen) and **"Blog"** (where observations and personal reflections are shared). Here, engineering rigor meets country living narrative.
+
+I apply a systematic approach to everything:
+
+* **Technical Systems:** 3D Design (CAD), Fabrication (3D Printing), Software Development, and IT Infrastructure.
+* **Physical Systems:** Homestead optimization, resource management, and resilience engineering for the land.
+* **Cognitive Systems:** Strategic planning, process analysis, and philosophical insights from the day-to-day.
+
+Expect entries that detail the *design rationale* of a new part, the *performance metrics* of the chicken operation, frustration logs, and highlights of our family's systemic approach to life.
 
 ---
 
-Click on each date to see the entry for that date!
-
-
+## To view an entry, click on a date above with description you are interested in!
