@@ -1,0 +1,9 @@
+## NEWS!
+
+I have been very busy lately with my server. Writing lots of code, adding a bunch of games to my server running on tailscale, PHP single page apps (SPAs) and going wild with that.
+
+I made a deer and fish sighting cataloguer using leaflet, openstreetmaps and php. I made a little chat log/dev log that still needs a lot of work, and my server stats dashboard. I am trying to get more done now that I have proper and remote access to my home server running php. A few colleagues have been telling me to instead set up docker containers and yodda yodda. Well, I'm already running the server on an old android phone, I don't want to go about making this even more complicated than I need to, for one. For two, I have always been more of a web dev type person anyways. Thats what I want to focus on and its what I enjoy. So its what I'm going to do.
+
+I need to find a nice free hosting setup (other than self hosting) for my deer/fish app however as I would like the family to be able to access it easily without installing tailscale and going through all that.
+
+But for now, just proud of the work I've been doing!
